@@ -1,0 +1,9 @@
+# Build output (CMake puts everything here, including downloaded libraries)
+build/
+out/
+
+# Visual Studio / IDE files
+.vs/
+*.user
+CMakeSettings.json
+.vscode/

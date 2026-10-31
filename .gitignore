@@ -7,3 +7,10 @@ out/
 *.user
 CMakeSettings.json
 .vscode/
+
+# Personal AI assistant notes (kept local, not published)
+claude.md
+CLAUDE.md
+context.md
+AGENTS.md
+agent*.md
